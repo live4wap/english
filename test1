@@ -1,0 +1,302 @@
+[
+  {
+    "question": "According to NCF 2005, English in India is a ________ in a multilingual country.",
+    "options": [
+      "First language",
+      "Global language",
+      "Foreign language",
+      "Associate language"
+    ],
+    "answer": "Global language"
+  },
+  {
+    "question": "Which of the following are known as 'Productive Skills' in language learning?",
+    "options": [
+      "Reading and Writing",
+      "Listening and Speaking",
+      "Speaking and Writing",
+      "Listening and Reading"
+    ],
+    "answer": "Speaking and Writing"
+  },
+  {
+    "question": "The concept of 'Language Acquisition Device' (LAD) was proposed by:",
+    "options": [
+      "B.F. Skinner",
+      "Jean Piaget",
+      "Noam Chomsky",
+      "Lev Vygotsky"
+    ],
+    "answer": "Noam Chomsky"
+  },
+  {
+    "question": "Dyslexia is associated mainly with difficulties in:",
+    "options": [
+      "Reading",
+      "Speaking",
+      "Listening",
+      "Writing"
+    ],
+    "answer": "Reading"
+  },
+  {
+    "question": "Reading quickly to get the general idea or gist of a text is called:",
+    "options": [
+      "Scanning",
+      "Skimming",
+      "Intensive reading",
+      "Extensive reading"
+    ],
+    "answer": "Skimming"
+  },
+  {
+    "question": "Which method of teaching English restricts the use of the mother tongue?",
+    "options": [
+      "Grammar-Translation Method",
+      "Direct Method",
+      "Bilingual Method",
+      "Audio-Lingual Method"
+    ],
+    "answer": "Direct Method"
+  },
+  {
+    "question": "Multilingualism as a resource in education means:",
+    "options": [
+      "Teaching many languages in school",
+      "Using the languages of learners as a strategy in school",
+      "Making learners learn as many languages as possible",
+      "Promoting English over the mother tongue"
+    ],
+    "answer": "Using the languages of learners as a strategy in school"
+  },
+  {
+    "question": "The smallest unit of sound in a language is called a:",
+    "options": [
+      "Morpheme",
+      "Phoneme",
+      "Syntax",
+      "Semantics"
+    ],
+    "answer": "Phoneme"
+  },
+  {
+    "question": "Real objects used as teaching aids in a language classroom are known as:",
+    "options": [
+      "Realia",
+      "Flashcards",
+      "Models",
+      "Artifacts"
+    ],
+    "answer": "Realia"
+  },
+  {
+    "question": "Formative Assessment is assessment ________ learning.",
+    "options": [
+      "of",
+      "for",
+      "as",
+      "in"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "BICS stands for:",
+    "options": [
+      "Basic Interpersonal Communicative Skills",
+      "Bilingual Intercultural Cognitive Skills",
+      "Basic Integrated Communicative Syllabus",
+      "Bilingual Interpersonal Cognitive System"
+    ],
+    "answer": "Basic Interpersonal Communicative Skills"
+  },
+  {
+    "question": "A teacher asks learners to find specific information from a train schedule. This reading sub-skill is called:",
+    "options": [
+      "Skimming",
+      "Scanning",
+      "Inferring",
+      "Summarising"
+    ],
+    "answer": "Scanning"
+  },
+  {
+    "question": "In language teaching, 'Syntax' deals with:",
+    "options": [
+      "Meaning of words",
+      "Sound system",
+      "Structure of sentences",
+      "Vocabulary building"
+    ],
+    "answer": "Structure of sentences"
+  },
+  {
+    "question": "Continuous and Comprehensive Evaluation (CCE) focuses on:",
+    "options": [
+      "Only academic achievement",
+      "All-round development of the learner",
+      "Term-end examinations",
+      "Memory tests"
+    ],
+    "answer": "All-round development of the learner"
+  },
+  {
+    "question": "Which of the following is an authentic material for teaching reading?",
+    "options": [
+      "A grammar textbook",
+      "A newspaper article",
+      "A dictionary",
+      "A worksheet prepared by the teacher"
+    ],
+    "answer": "A newspaper article"
+  },
+  {
+    "question": "What is the synonym of the word 'Abundant'?",
+    "options": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Empty"
+    ],
+    "answer": "Plentiful"
+  },
+  {
+    "question": "What is the antonym of the word 'Optimist'?",
+    "options": [
+      "Pessimist",
+      "Realist",
+      "Activist",
+      "Idealist"
+    ],
+    "answer": "Pessimist"
+  },
+  {
+    "question": "Fill in the blank with the correct preposition: She is afraid ____ spiders.",
+    "options": [
+      "from",
+      "of",
+      "with",
+      "by"
+    ],
+    "answer": "of"
+  },
+  {
+    "question": "Identify the correct article: He is ____ honest man.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article needed"
+    ],
+    "answer": "an"
+  },
+  {
+    "question": "Choose the correct plural form of the word 'Child'.",
+    "options": [
+      "Childs",
+      "Childrens",
+      "Children",
+      "Childes"
+    ],
+    "answer": "Children"
+  },
+  {
+    "question": "Change the following sentence into passive voice: 'She writes a letter.'",
+    "options": [
+      "A letter was written by her.",
+      "A letter is written by her.",
+      "A letter is being written by her.",
+      "A letter will be written by her."
+    ],
+    "answer": "A letter is written by her."
+  },
+  {
+    "question": "What is the collective noun for a group of bees?",
+    "options": [
+      "Herd",
+      "Flock",
+      "Swarm",
+      "Pack"
+    ],
+    "answer": "Swarm"
+  },
+  {
+    "question": "Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'",
+    "options": [
+      "fox",
+      "jumps",
+      "quick",
+      "over"
+    ],
+    "answer": "quick"
+  },
+  {
+    "question": "Which of the following sentences is grammatically correct?",
+    "options": [
+      "He go to school every day.",
+      "He goes to school every day.",
+      "He going to school every day.",
+      "He is go to school every day."
+    ],
+    "answer": "He goes to school every day."
+  },
+  {
+    "question": "What is the meaning of the idiom 'Once in a blue moon'?",
+    "options": [
+      "Very rarely",
+      "Very often",
+      "At night",
+      "During a festival"
+    ],
+    "answer": "Very rarely"
+  },
+  {
+    "question": "Fill in the blank: Either you ____ your brother must attend the meeting.",
+    "options": [
+      "nor",
+      "and",
+      "but",
+      "or"
+    ],
+    "answer": "or"
+  },
+  {
+    "question": "Choose the correctly spelt word:",
+    "options": [
+      "Acomodation",
+      "Accomodation",
+      "Accommodation",
+      "Acommadation"
+    ],
+    "answer": "Accommodation"
+  },
+  {
+    "question": "Which prefix can be added to the word 'Happy' to make its opposite?",
+    "options": [
+      "Dis-",
+      "Un-",
+      "In-",
+      "Mis-"
+    ],
+    "answer": "Un-"
+  },
+  {
+    "question": "Which suffix can be added to the word 'Manage' to make it a noun?",
+    "options": [
+      "-ment",
+      "-ly",
+      "-able",
+      "-ful"
+    ],
+    "answer": "-ment"
+  },
+  {
+    "question": "Complete the proverb: 'A stitch in time saves ____.'",
+    "options": [
+      "nine",
+      "ten",
+      "money",
+      "trouble"
+    ],
+    "answer": "nine"
+  }
+]
